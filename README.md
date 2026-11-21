@@ -23,8 +23,9 @@ A shared family wishlist web app where **list owners never see who called dibs**
 
 ## 📊 Particul8
 A coaching platform for support leaders 🧑‍🏫 that connects QA, CSAT, handle time, reopens & escalations with workload context, so coaching gets to the **root cause**, not just the score 🎯
+👉 particul8.app (this is a password protected demo - ask me if you want to take a look! 👀
 
-🔒 *Both repos are private (they're live products!), but every green square is real* 🟩🟩🟩
+🔒 *Both repos are private (they're live!), but every green square is legit* 🟩🟩🟩
 
 ---
 
