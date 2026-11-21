@@ -1,6 +1,7 @@
 # Hey, I'm Jess! 👋✨
 ## 🛠️ Support & incident leader who builds the things she wishes existed
-🤓 Ambivert, mom of 2, AI fan-girl + lover of all things tech
+
+🤓 Ambivert, mom of 2, AI fan-girl + lover of **all** things tech\
 🎧 12+ years keeping customers happy at **Turo, Kraken, Lyft, Scribd, Uber & Apple**  
 🚨 Calm in the chaos: escalations, incidents & "is it just me?" moments  
 🤖 I design, build & ship my own products with **Claude Code**  
