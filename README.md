@@ -1,4 +1,4 @@
-# Hey, I'm Jess! 👋✨
+# Hey, I'm Jess! 👋🏻✨
 ## 🛠️ Product support & incident leader who builds the things I wish existed 🪄
 
 🤓 Ambivert, mom of 2, AI fan-girl + lover of **all** things tech\
