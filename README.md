@@ -1,5 +1,5 @@
 # Hey, I'm Jess! 👋✨
-## 🛠️ Support & incident leader who builds the things she wishes existed
+## 🛠️ Product support & incident leader who builds the things she wishes existed
 
 🤓 Ambivert, mom of 2, AI fan-girl + lover of **all** things tech\
 🎧 12+ years keeping customers happy at **Turo, Kraken, Lyft, Scribd, Uber & Apple**  
