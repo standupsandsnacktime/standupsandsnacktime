@@ -1,5 +1,5 @@
 # Hey, I'm Jess! 👋✨
-## 🛠️ Product support & incident leader who builds the things she wishes existed
+## 🛠️ Product support & incident leader who builds the things I wish existed 🪄
 
 🤓 Ambivert, mom of 2, AI fan-girl + lover of **all** things tech\
 🎧 12+ years keeping customers happy at **Turo, Kraken, Lyft, Scribd, Uber & Apple**  
@@ -18,7 +18,7 @@
 
 
 ## 🎁 The Wishlist Department
-A shared family wishlist web app where **list owners never see who called dibs** 🤫  
+A shared family wishlist web app where **list owners never see who's buying what** 🤫  
 📦 85+ releases · 🔔 push notifications · 📴 offline mode · 🎨 themes · 💳 paid family subscription  
 👉 thewishlistdepartment.app
 
